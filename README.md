@@ -10,6 +10,12 @@ Um layout simples e elegante de blog, com destaque para organização de texto, 
 
 ---
 
+Visualização ao vivo
+Veja o site funcionando com GitHub Pages:
+👉 [Clique aqui para acessar](https://viniciusmarquesz.github.io/projeto-flexblog/)
+
+---
+
 ##  Tecnologias utilizadas
 
 - HTML5  
